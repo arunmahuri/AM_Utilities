@@ -1,0 +1,8 @@
+utlities:
+  U1: 'Word Count'
+
+input_path: ''
+output_path: ''
+
+parse_str: '[^a-zA-Z\d\s]+'
+
